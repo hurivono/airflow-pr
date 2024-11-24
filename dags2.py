@@ -1,8 +1,3 @@
-
-아래 sample_dag.py 파일을 앞서 만든 airflow-dags-demo 리포지토리에 push 한다.
-
-Airflow 에서 제공하는 튜토리얼 DAG의 스케쥴 타임만 수정했다.
-
 from datetime import datetime, timedelta
 from textwrap import dedent
 
